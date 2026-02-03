@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Model Explorer",
+  "description": "An interactive showcase and comparison tool for the latest Google Gemini models, featuring technical specifications, use cases, and an AI-powered assistant.",
+  "requestFramePermissions": []
+}
